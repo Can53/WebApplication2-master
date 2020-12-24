@@ -20,9 +20,9 @@ namespace WebApplication2.Controllers
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult Six()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "gan";
 
             return View();
         }
