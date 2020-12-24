@@ -9,5 +9,6 @@ namespace Model
     public class Class1
     {
         int a = 66, q = 44;
+        string qwe = "qwe";
     }
 }
